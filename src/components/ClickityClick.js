@@ -19,6 +19,8 @@ class LightSwitch extends React.Component {
     });
   };
 
+  //posting to git
+
   render() {
     return (
       <div>
